@@ -1,0 +1,10 @@
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\bin\Debug\Mail gönderme.exe.config
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\bin\Debug\Mail gönderme.exe
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\bin\Debug\Mail gönderme.pdb
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\obj\Debug\Mail gönderme.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\obj\Debug\Mail_gönderme.Form1.resources
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\obj\Debug\Mail_gönderme.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\obj\Debug\Mail gönderme.csproj.GenerateResource.Cache
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\obj\Debug\Mail gönderme.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\obj\Debug\Mail gönderme.exe
+C:\Users\MONSTER\source\repos\Mail gönderme\Mail gönderme\obj\Debug\Mail gönderme.pdb
